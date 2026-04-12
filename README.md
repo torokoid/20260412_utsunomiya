@@ -312,7 +312,7 @@ p.note { display: none; }
   </picture>
 </a>
 
-<h2><span class="yellow">本屋さんで見かけたこの本、SNSの次に来るアイテムとのこと</span></h2>
+<h2><span class="yellow">本屋さんで見かけたこの本、SNSより濃い〜情報共有ができるアイテムの活用本</span></h2>
 <a href="20260412_020.webp" target="_blank">
   <picture>
     <source srcset="20260412_020.webp" type="image/webp">
