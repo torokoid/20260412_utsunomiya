@@ -237,10 +237,10 @@ p.note { display: none; }
   </picture>
 </a>
 
-<a href="20260412_010.webp" target="_blank">
+<a href="20260412_010.JPG" target="_blank">
   <picture>
-    <source srcset="20260412_010.webp" type="image/webp">
-    <img src="20260412_010.webp" alt="イベント写真_010" class="responsive-media" loading="lazy">
+    <source srcset="20260412_010.JPG" type="image/webp">
+    <img src="20260412_010.JPG" alt="イベント写真_010" class="responsive-media" loading="lazy">
   </picture>
 </a>
 
