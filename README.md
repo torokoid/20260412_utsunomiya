@@ -202,10 +202,10 @@ p.note { display: none; }
 </a>
 
 <h2><span class="yellow">お花屋さんのお花達も皆綺麗</span></h2>
-<a href="20260412_005.webp" target="_blank">
+<a href="20260412_005.JPG" target="_blank">
   <picture>
-    <source srcset="20260412_005.webp" type="image/webp">
-    <img src="20260412_005.webp" alt="イベント写真_005" class="responsive-media" loading="lazy">
+    <source srcset="20260412_005.JPG" type="image/webp">
+    <img src="20260412_005.JPG" alt="イベント写真_005" class="responsive-media" loading="lazy">
   </picture>
 </a>
 
